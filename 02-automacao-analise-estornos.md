@@ -1,9 +1,9 @@
 # Automação da Análise de Estornos de Consignado (v1, macro no-code)
 
-**Empresa:** Itaú Unibanco
-**Área:** Consignado
-**Período:** 2023
-**Status:** a macro foi entregue e passou a ser usada na rotina diária da área. A versão em
+- **Empresa:** Itaú Unibanco
+- **Área:** Consignado
+- **Período:** 2023
+- **Status:** a macro foi entregue e passou a ser usada na rotina diária da área. A versão em
 Python é apenas um plano, descrita na última seção deste documento.
 
 ## Contexto
