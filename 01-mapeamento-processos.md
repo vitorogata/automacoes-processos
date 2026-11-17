@@ -1,8 +1,8 @@
 # Mapeamento e Padronização de Processos
 
-**Empresa:** Itaú Unibanco
-**Área:** Consignado
-**Período:** 2022 a 2024
+- **Empresa:** Itaú Unibanco
+- **Área:** Consignado
+- **Período:** 2022 a 2024
 
 ## Contexto
 
