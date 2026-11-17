@@ -1,8 +1,8 @@
 # Redesenho de 4 Processos Operacionais
 
-**Empresa:** Itaú Unibanco
-**Área:** Consignado
-**Período:** 2022 a 2024
+- **Empresa:** Itaú Unibanco
+- **Área:** Consignado
+- **Período:** 2022 a 2024
 
 ## Contexto
 
