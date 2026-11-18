@@ -1,4 +1,4 @@
-# Redesenho de 4 Processos Operacionais
+# Redesenho Processos Operacionais
 
 - **Empresa:** Itaú Unibanco
 - **Área:** Consignado
@@ -27,7 +27,7 @@ era preciso decidir o que deveria continuar existindo.
 
 ## Resultado
 
-- Redução de atividades não essenciais em 4 processos da área
+- Redução de atividades não essenciais em processos da área
 - Fluxos mais curtos, com menos passagens manuais entre pessoas
 - Procedimentos padronizados, reduzindo variação de execução
 
