@@ -32,7 +32,7 @@ alternativa viável, uma macro no-code que executava a validação CPF por CPF, 
 de 80% no tempo de análise.
 
 **2026 -**
-Reconstrução da mesma conciliação em Python, com dados sintéticos e recursos de Inteligência Artificial.
+Reconstrução da mesma conciliação em Python, com dados sintéticos e recursos de Inteligência Artificial. [Conciliação de estornos de consignado](https://github.com/vitorogata/conciliacao-estornos)
 
 ## Ferramentas
 
