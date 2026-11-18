@@ -4,7 +4,7 @@
 - **Área:** Consignado
 - **Período:** 2023
 - **Status:** a macro foi entregue e passou a ser usada na rotina diária da área. A versão em
-Python é apenas um plano, descrita na última seção deste documento.
+Python foi uma solução posterior, descrita na última seção deste documento.
 
 ## Contexto
 
