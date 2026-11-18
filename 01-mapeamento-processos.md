@@ -48,8 +48,8 @@ manual não envelhecer em silêncio.
 
 ## Resultado
 
-- 27 processos da área mapeados em BPMN
-- Mais de 300 procedimentos operacionais produzidos e publicados
+- Mais de 50 processos da área mapeados em BPMN
+- Mais de 50 procedimentos operacionais produzidos e publicados
 - Redução da dependência de conhecimento individual: a rotina passou a ser executável por
   qualquer pessoa da equipe, com o manual como referência
 - Base documental que passou a sustentar as respostas a Controles Internos e auditorias
