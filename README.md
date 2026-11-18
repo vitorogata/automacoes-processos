@@ -13,8 +13,8 @@ e, a partir de 2026, automação com Python e apoio de IA.
 ## Índice
 
 - **[01 - Mapeamento e padronização de processos](./01-mapeamento-processos.md)**: mais de 50 processos mapeados em BPMN, mais de 50 procedimentos publicados.
-- **[03 - Redesenho de 4 processos](./03-redesenho-processos.md)**: eliminação de etapas redundantes e simplificação antes da automação.
-- **[02 - Automação da análise de estornos](./02-automacao-analise-estornos.md)**: macro no-code que reduziu 80% do tempo de uma conciliação diária.
+- **[02 - Redesenho de 4 processos](./02-redesenho-processos.md)**: eliminação de etapas redundantes e simplificação antes da automação.
+- **[03 - Automação da análise de estornos](./03-automacao-analise-estornos.md)**: macro no-code que reduziu 80% do tempo de uma conciliação diária.
 
 ## A ordem importa: entender, simplificar, automatizar
 
