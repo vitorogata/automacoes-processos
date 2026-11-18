@@ -81,7 +81,7 @@ Registro aqui como feito pós estágio, como projeto pessoal, não como o que fo
 
 ## Ferramentas
 
-JitBit (macro no-code) | Excel | consulta a sistema interno | Bizagi para o mapeamento prévio
+JitBit (macro no-code) | Excel | Bizagi (BPMN)
 
 ## Meu papel
 
