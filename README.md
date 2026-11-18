@@ -18,7 +18,7 @@ e, a partir de 2026, automação com Python e apoio de IA.
 
 ## A ordem importa: entender, simplificar, automatizar
 
-Primeiro mapeei os processos e publiquei os manuais. Depois usei esse mapa para
+Primeiro mapeei os processos e publiquei os manuais em Sharepoint. Depois usei os mapas para
 identificar o que podia ser eliminado e o que podia ser automatizado. A automação de
 maior resultado só apareceu porque os processos já estavam documentados.
 
