@@ -31,8 +31,8 @@ acesso a extrato é restrito e o uso de IA não estava autorizado na empresa. En
 alternativa viável, uma macro no-code que executava a validação CPF por CPF, com redução
 de 80% no tempo de análise.
 
-**2026 - Reconstrução com IA**
-Reconstrução da mesma conciliação em Python, com dados sintéticos. Em publicação.
+**2026 -**
+Reconstrução da mesma conciliação em Python, com dados sintéticos e recursos de Inteligência Artificial.
 
 ## Ferramentas
 
