@@ -36,7 +36,7 @@ Reconstrução da mesma conciliação em Python, com dados sintéticos e recurso
 
 ## Ferramentas
 
-BPMN (Bizagi) | SharePoint | JitBit (no-code) | Python | Excel
+BPMN (Bizagi) | SharePoint | JitBit (no-code) | Python | Excel | Inteligência Artificial
 
 ## Contato
 
