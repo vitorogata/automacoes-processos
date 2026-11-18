@@ -24,7 +24,7 @@ maior resultado só apareceu porque os processos já estavam documentados.
 
 ## Linha do tempo
 
-**2023 - Ambiente corporativo**
+**2023 -**
 A solução ideal para a conciliação de estornos era cruzar a base de clientes com a base
 que alimenta o sistema de extratos. Não foi possível naquele momento por dois motivos:
 acesso a extrato é restrito e o uso de IA não estava autorizado na empresa. Entreguei a
