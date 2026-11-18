@@ -1,4 +1,4 @@
-# Automação da Análise de Estornos de Consignado (v1, macro no-code)
+# Automação da Análise de Estornos de Consignado (macro no-code)
 
 - **Empresa:** Itaú Unibanco
 - **Área:** Consignado
@@ -71,14 +71,13 @@ A macro rodava em primeiro plano, então o computador ficava ocupado durante a e
 trade-off aceito conscientemente: ganho de velocidade imediato com custo de máquina bloqueada.
 A limitação ficou registrada como ponto de melhoria para a próxima versão.
 
-## Próximo passo, ainda não executado
+## Solução definitiva implementada com dados sintéticos
 
-A solução definitiva continua sendo o cruzamento de bases. Com IA generativa disponível e
-autorizada, a reconstrução pode ser feita em Python: leitura da base de estornos, cruzamento
-por chave composta com a base de extratos, classificação automática em conforme e não
+A solução definitiva continuava sendo o cruzamento de bases. Esta solução foi construída em 2026 comigo já fora do banco utilizando dados sintéticos. Com IA generativa disponível, a reconstrução pôde ser feita em Python: leitura da base de estornos, cruzamento
+por chave composta com a base de extratos fictícios, classificação automática em conforme e não
 conforme, e relatório dos casos que exigem tratamento manual.
 
-Registro aqui como próximo passo planejado, não como o que foi feito na empresa.
+Registro aqui como feito pós estágio, como projeto pessoal, não como o que foi feito na empresa.
 
 ## Ferramentas
 
